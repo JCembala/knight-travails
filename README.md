@@ -16,4 +16,5 @@ Assignment from [The Odin Project](https://www.theodinproject.com/)
 
 ## Inspiration
 Highly inspired by [qpogratz](https://github.com/qpongratz/knights-travails)
-who also is a student of **The Project Odin**.
+who also is a student of **The Project Odin**. I've read his README and
+his implementation. After that I have implemented it by myself with more OOP approach. 
